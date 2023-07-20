@@ -4,18 +4,18 @@ Penjelasan selanjutnya adalah untuk mengisi variabel global.mongo, yang merupaka
 **/
 
 
-global.owner = ['6281395861695']  
+global.owner = ['237656774511']  
 global.read = false // ubah ke true jika ingin autoread 
-global.mongo = '' //isi dengan link mongodb kamu jika tidak punya biarkan saja kosong
+global.mongo = 'mongodb+srv://mitorismitor:mitoris@cluster0.kbemm0h.mongodb.net/?retryWrites=true&w=majority' //isi dengan link mongodb kamu jika tidak punya biarkan saja kosong
 global.mods = ['6281395861695'] 
 global.prems = ['6281395861695']
-global.nameowner = 'Tio'
-global.numberowner = '6281395861695' 
+global.nameowner = '𝑲𝑬𝑵~𝑽 𝑶𝑭𝑪'
+global.numberowner = '237656774511' 
 global.mail = 'support@tioprm.my.id' 
 global.dana = '6281395861695'
 global.pulsa = '6281395861695'
 global.gopay = '6281395861695'
-global.namebot = 'BOTCAHX'
+global.namebot = '𝑲𝑬𝑵𝑽 𝑩𝑶𝑻𝒁'
 global.gc = 'https://chat.whatsapp.com/Ln2vHjRrRayAbzalRMB56r'
 global.web = 'https://github.com/BOTCAHX'
 global.instagram = 'https://instagram.com/prm2.0'
